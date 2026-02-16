@@ -24,7 +24,7 @@ Before Amazon, I was **Lead Developer at Milli Bank** (June 2020 – November 20
 
 ## Teaching & mentoring 🎓
 
-Since 2020 I've been **Lead Instructor at Metropolitan Community College's Code School**. I bring real-world experience into the classroom and guide students through full stack development — basically, I get to help grow the next generation of developers. If you've ever wanted to turn "how does this even work?!" into "oh, I built that," that's the energy I'm going for. 📚✨
+Since 2020 I've been [**Lead Instructor at Metropolitan Community College's Code School**](https://www.mccneb.edu/community-business/workforce-education/programs-and-certifications/information-technology-career-training/mcc-code-school). I bring real-world experience into the classroom and guide students through full stack development — basically, I get to help grow the next generation of developers. If you've ever wanted to turn "how does this even work?!" into "oh, I built that," that's the energy I'm going for. 📚✨
 
 ---
 
